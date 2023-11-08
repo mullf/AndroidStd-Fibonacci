@@ -231,4 +231,4 @@ public class MainActivity extends AppCompatActivity {
 <hr>
 
 ## **Desain Application**
-![Desain](img/desain.png)
+<img width="243" alt="desain" src="https://github.com/mullf/AndroidStd-Fibonacci/assets/115521049/a6458dc2-ebdb-4087-b165-829c3c708928">
