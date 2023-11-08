@@ -1,7 +1,7 @@
 # **Program Fibonacci**
 ## **MainActivity.java**
 ```java
-package androidx.constraintlayout.widget.fibonacciapp;
+package androidx.constraintlayout.widget.Fibonacci;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.content.ContextCompat;
@@ -136,7 +136,7 @@ public class MainActivity extends AppCompatActivity {
 
     <Button
         android:id="@+id/button_fibonacci"
-        android:layout_width="242dp"
+        android:layout_width="194dp"
         android:layout_height="50dp"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
@@ -153,7 +153,7 @@ public class MainActivity extends AppCompatActivity {
 
     <EditText
         android:id="@+id/limit_input"
-        android:layout_width="242dp"
+        android:layout_width="194dp"
         android:layout_height="50dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
@@ -171,7 +171,7 @@ public class MainActivity extends AppCompatActivity {
 
     <Button
         android:id="@+id/button_count"
-        android:layout_width="242dp"
+        android:layout_width="194dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginEnd="8dp"
@@ -187,7 +187,7 @@ public class MainActivity extends AppCompatActivity {
 
     <Button
         android:id="@+id/button_reset"
-        android:layout_width="242dp"
+        android:layout_width="194dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginEnd="8dp"
