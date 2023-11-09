@@ -95,7 +95,7 @@ public class MainActivity extends AppCompatActivity {
 ## **strings.xml**
 ```xml
 <resources>
-    <string name="app_name">FibonacciApp</string>
+    <string name="app_name">Fibonacci</string>
     <string name="button_label_count">Count</string>
     <string name="button_label_fibonacci">Fibonacci</string>
     <string name="fibonacci_message">Program Fibonacci</string>
